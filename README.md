@@ -8,8 +8,9 @@ Gabriel Nascimento<br>
 <br>
 
 ### Slides<br>
-Cassandra: <br>
-MongoDB: <br>
+Cassandra: https://github.com/gustavoandradeifes/Cassandra-VS-MongoDB/blob/main/Cassandra.pptx<br>
+MongoDB: https://github.com/gustavoandradeifes/Cassandra-VS-MongoDB/blob/main/MongoDB.pptx<br>
+Comparação da dupla: https://github.com/gustavoandradeifes/Cassandra-VS-MongoDB/blob/main/Compara%C3%A7%C3%A3o%20Cassandra%20MongoDB.pptx<br>
 <br>
 
 ### Vídeo<br>
