@@ -13,5 +13,5 @@ MongoDB: <br>
 <br>
 
 ### Vídeo<br>
-link: 
+link: https://www.youtube.com/watch?v=ZQsPD6Yz62w&feature=youtu.be
 <br>
